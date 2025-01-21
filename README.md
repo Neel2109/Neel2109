@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neel2109" alt="neel2109" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/account](https://github.com/account)
-
+- 👨‍💻 All of my projects are available at https://github.com/Neel2109?tab=repositories
 - 📫 How to reach me **patelneel9609@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
